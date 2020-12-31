@@ -4,13 +4,14 @@ Hi everyone, I'm Lucas. I am a 3nd-year student at Universidade Federal do Rio d
 
 🔭 What I'm working on ...
 
-Working as a intern at Marktech.(COMING SOON)
+Working as a intern at Marktech.(Coming Soon)
 
 Developing pelsiasufrj.com, an IEEE affiliated site in the power electronics area.
 
 Developing a project in HVDC that has the purpose of instantly calculating positive and negative sequence.
 
 🌱 What I'm learning ...
+
 Python librairies for DataScience (Numpy, Pandas, Matplotlib,Plotly).
 
 HTML/CSS for web development.
