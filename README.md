@@ -16,6 +16,6 @@ Simulink/MATLAB for research projects.
 📫 How to reach me
 
 Feel free to reach out via e-mail lucas.ferreira@poli.ufrj.br or on Linkedin!
-**lucas-ferreira1/lucas-ferreira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
