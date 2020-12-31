@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--Hi everyone, I'm Lucas. I am a 3nd-year student at Universidade Federal do Rio de Janeiro(UFRJ) and currently enrolled in Electrical Engineering.
+Hi everyone, I'm Lucas. I am a 3nd-year student at Universidade Federal do Rio de Janeiro(UFRJ) and currently enrolled in Electrical Engineering.
 
 🔭 What I'm working on ...
 
