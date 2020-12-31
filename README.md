@@ -20,7 +20,7 @@ Simulink/MATLAB for research projects.
 
 📫 How to reach me
 
-Feel free to reach out via e-mail mailto:lucas.ferreira@poli.ufrj.br or on <a href = "https://www.linkedin.com/in/lucas-de-souza-ferreira">Linkedin!<\a>
+Feel free to reach out via e-mail lucas.ferreira@poli.ufrj.br or on <a href = "https://www.linkedin.com/in/lucas-de-souza-ferreira">Linkedin!
 
 
 
