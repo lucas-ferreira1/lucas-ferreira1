@@ -4,7 +4,7 @@ Hi everyone, I'm Lucas. I am a 3rd-year student at Universidade Federal do Rio d
 
 🔭 What I'm working on ...
 
-Working as a intern at Marktech.(Coming Soon)
+Working as a BI intern at Marktech.
 
 Developing pelsiasufrj.com, an IEEE affiliated site in the power electronics area.
 
