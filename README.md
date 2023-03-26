@@ -1,14 +1,6 @@
 ### Hi there 👋
 
-Hi everyone, I'm Lucas. I am a 3rd-year student at Universidade Federal do Rio de Janeiro(UFRJ) in the Electrical Engineering's Department.
-
-🔭 What I'm working on ...
-
-Working as a BI intern at Marktech.
-
-Developing pelsiasufrj.com, an IEEE affiliated site in the power electronics area.
-
-Developing a project in HVDC that has the purpose of instantly calculating positive and negative sequence.
+Hi everyone, I'm Lucas. I am a 3rd-year student at École CentraleSupélec.
 
 🌱 What I'm learning ...
 
