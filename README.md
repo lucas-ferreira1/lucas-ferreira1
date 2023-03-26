@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Hi everyone, I'm Lucas. I am a 3rd-year student at École CentraleSupélec.
+Hi everyone, I'm Lucas. I am a 3rd-year student at École CentraleSupélec. 
 
 🌱 What I'm learning ...
 
-Python librairies for DataScience (Numpy, Pandas, Matplotlib,Plotly).
+Python librairies for DataScience (Numpy, Pandas, Matplotlib,Seaborn).
 
-HTML/CSS for web development.
+Machine Learning for energy consommation.
 
 Simulink/MATLAB for research projects.
 
